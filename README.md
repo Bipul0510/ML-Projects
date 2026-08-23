@@ -1,3 +1,3 @@
 Project list :
 
-smartwatch_healthe-track
+smartwatch_healthe-tracker
